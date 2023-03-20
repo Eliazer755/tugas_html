@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    color: orange;
+    background-color: aqua;
+    font-size: 65px;
+    font-style: italic;
+}
+
+#atta{
+    margin-top: 10px;
+
+}
+
+
+#isi{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;    
+}
+
+#isi .p1{
+    text-align: right;
+}
+
+#isi .p2{
+    text-align: left;
+}
+
+.home{
+	font-size: 20px;
+	background-color: red;
+	color: white;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	padding: 10px 5px;
+}
+.home:hover{
+	color: black;
+}
+
+.home:hover{
+	color: black;
+}
+
+table.center {
+    background-color: chocolate;    
+    font-size: large;
+    margin-left: auto; 
+    margin-right: auto;
+    margin-top: 250px;    
+  }
